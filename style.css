@@ -1,0 +1,39 @@
+.navbar{
+background-color: #1f2937;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: grey;
+display: flex;
+justify-content: space-between;
+flex-direction: row;
+align-items: center;
+padding-top: 20px;
+padding-bottom: 20px;
+padding-left: 100px;
+padding-right: 100px;
+gap: 1em;
+}
+
+li{
+    list-style: none;
+}
+
+.logo{
+    display:flex;
+    justify-content: flex-start;
+    color: #f9faf8;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.navbar .logo{
+    display: flex;
+    flex-direction: row;
+    align-content: space-evenly;
+}
+
+.menu{
+    display:flex;
+    justify-content: flex-end;
+    align-content: space-evenly;
+    gap: 1em;
+}
