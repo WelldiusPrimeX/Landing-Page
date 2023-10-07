@@ -151,3 +151,46 @@ li{
     font-style: normal;
     padding-right: 150px;
 }
+
+.Hero-Action{
+    display: flex;
+    justify-content: center;
+    background-color: #f9faf8;
+}
+
+.twelve{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #3882F6;
+    color: #f9faf8;
+    margin-top: 100px;
+    margin-bottom: 100px;
+   width: 1000px;
+   padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    border-radius: 10px;
+}
+
+.fourteen{
+    background-color: #3882F6;
+    border-color: #f9faf8;
+    color: #f9faf8;
+    border-style: solid;
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-top: 50px;
+    font-weight: bold;
+}
+
+.fifteen{
+    font-weight: bold;
+    font-size: 18px;
+}
+
